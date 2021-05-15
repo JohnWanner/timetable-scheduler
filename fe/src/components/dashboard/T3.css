@@ -1,0 +1,102 @@
+.wholetable {
+    height: 120%;
+    width: 80%;
+    border-collapse:collapse;
+    margin: 0 auto;
+    font-weight: bold;
+
+}
+
+td {
+    height: 5px;
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+    font-weight: bold;
+
+}
+
+tr:nth-child(even) {
+    background-color: #eff0f1;
+}
+tr:nth-child(odd) {
+    background-color: #fff;
+}
+
+
+tr:first-child,
+td:first-child {
+    background-color: #34495e;
+    padding: 1.5rem;
+    color: #fff;
+    text-align: center;
+}
+
+th:hover {
+background-color: #ddd;
+}
+
+th {
+    height: 10px;
+    width: 15%;
+    font-weight: bold;
+}
+
+.wholetable,td,th{
+    border: 1px solid black;
+    font-weight: bold;
+}
+
+.car{
+    background-color:lightsalmon ;
+}
+
+
+.car2{
+    background-color:FloralWhite !important;
+
+}
+
+.lightsalmon {
+    background-color: lightsalmon !important;
+}
+.lightseagreen {
+    background-color: lightseagreen !important;
+}
+.lightcoral {
+    background-color: lightcoral !important;
+}
+.lightblue {
+    background-color: lightblue !important;
+}
+.lightcyan {
+    background-color: lightcyan !important;
+}
+.lightgoldenrodyellow {
+    background-color: lightgoldenrodyellow !important;
+}
+.lightgreen {
+    background-color: lightgreen !important;
+}
+.lightpink {
+    background-color: lightpink !important;
+}
+.lightskyblue {
+    background-color: lightskyblue !important;
+}
+.burlywood {
+    background-color: burlywood !important;
+}
+.darkseagreen {
+    background-color: darkseagreen !important;
+}
+.lavender {
+    background-color: lavender !important;
+}
+.lightsteelblue {
+    background-color: lightsteelblue !important;
+}
+.NavajoWhite {
+    background-color: NavajoWhite !important;
+}
+
